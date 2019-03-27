@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="str1">题目</string>
+    <string name="str2">提示</string>
+    <string name="buttonTrue">确定</string>
+    <string name="buttonFalse">错误</string>
+    <string name="buttonNext">下一题</string>
+    <string name="buttonAnswer">查看答案</string>
+    <string name="buttonContinue">继续回答</string>
+    <string name="Answer_Text">你已查看了答案</string>
+    <string name="About_Text">联系开发者</string>
+</resources>
